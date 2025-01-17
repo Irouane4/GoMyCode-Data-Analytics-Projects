@@ -1,0 +1,64 @@
+  The functions and uses of the following tools: SSIS - SSAS SSRS - Power BI Suite - Power BI Desktop - Power BI Services  - Power BI Mobile.
+
+
+1- SQL Server Integration Services (SSIS):
+
+- Functions:  
+  SSIS helps move and combine data from different places into one database. It also lets you create automatic workflows, like cleaning or organizing data.  
+- Uses: 
+  - Combine data from different sources.  
+  - Organize and clean raw data.  
+  - Automate tasks like updating your database regularly.  
+
+2- SQL Server Analysis Services (SSAS): 
+
+- Functions:
+  SSAS helps store and organize data in a way that makes it easier to analyze. It creates something called a 'semantic model' to make the data meaningful and ready for decision-making.  
+- Uses:  
+  - Makes big datasets easier to understand and use.  
+  - Prepares data for tools like Power BI to create reports.  
+  - Speeds up data analysis by organizing data.  
+
+3- SQL Server Reporting Services (SSRS):
+
+- Functions:
+  SSRS is a tool to create reports. You can pull data from different sources, arrange it pricaisly, and share it in different formats like PDFs or xlsx files.  
+- Uses: 
+  - Create professional, detailed reports.  
+  - Share information in different formats for people to understand easily.  
+  - Keep your team updated with the latest data.  
+
+4- Power BI Suite:
+
+- Functions:
+  Power BI is a tool that lets you turn data into easy-to-read reports and dashboards. It includes everything you need to collect, organize, and share data insights.  
+- Uses:  
+  - You can connect it to many types of data sources. 
+  - It lets you clean, organize, and show data all in one place.  
+
+5- Power BI Desktop:
+
+- Functions:
+  Power BI Desktop is a free program that helps you load, organize, and visualize data on your computer.  
+- Uses:  
+  - Work with big amounts of data.  
+  - Use data from different places like databases, Excel files, or cloud storage.  
+  - Create reports and dashboards.  
+
+6- Power BI Service:
+
+- Functions: 
+  Power BI Service is the online version of Power BI where you can share your reports and dashboards with others. There’s a free version and a paid Pro version (€8.40/month).  
+- Uses:  
+  - Share reports and dashboards online.  
+  - Schedule automatic updates for your data.  
+  - Get alerts when important data changes.  
+
+7- Power BI Mobile: 
+
+- Functions:  
+  Power BI Mobile is an app for your phone or tablet that lets you see your reports and dashboards anywhere.  
+- Uses:  
+  - Check your data in real time on your phone.  
+  - Get alerts about important updates.  
+  - Share insights with your team, even when you’re not at your desk.  
